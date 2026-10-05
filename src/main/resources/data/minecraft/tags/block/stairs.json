@@ -1,0 +1,16 @@
+{
+  "values": [
+    "strata_basic:cobbled_lithoslate_stairs",
+    "strata_basic:polished_lithoslate_stairs",
+    "strata_basic:lithoslate_brick_stairs",
+    "strata_basic:lithoslate_tile_stairs",
+    "strata_basic:cobbled_mantleslate_stairs",
+    "strata_basic:polished_mantleslate_stairs",
+    "strata_basic:mantleslate_brick_stairs",
+    "strata_basic:mantleslate_tile_stairs",
+    "strata_basic:cobbled_ferrite_stairs",
+    "strata_basic:polished_ferrite_stairs",
+    "strata_basic:ferrite_brick_stairs",
+    "strata_basic:ferrite_tile_stairs"
+  ]
+}

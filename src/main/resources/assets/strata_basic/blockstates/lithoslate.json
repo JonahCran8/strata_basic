@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "strata_basic:block/lithoslate_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "strata_basic:block/lithoslate"
+    },
+    "axis=z": {
+      "model": "strata_basic:block/lithoslate_horizontal",
+      "x": 90
+    }
+  }
+}

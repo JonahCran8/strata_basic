@@ -1,0 +1,8 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "minecraft:nether_wastes",
+  "features": [
+    "strata_basic:nether_spring_lava"
+  ],
+  "step": "vegetal_decoration"
+}

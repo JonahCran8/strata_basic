@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "strata_basic:block/cobbled_ferrite_slab"
+    },
+    "type=double": {
+      "model": "strata_basic:block/cobbled_ferrite"
+    },
+    "type=top": {
+      "model": "strata_basic:block/cobbled_ferrite_slab_top"
+    }
+  }
+}

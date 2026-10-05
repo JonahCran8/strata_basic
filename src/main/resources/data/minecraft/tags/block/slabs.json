@@ -1,0 +1,16 @@
+{
+  "values": [
+    "strata_basic:cobbled_lithoslate_slab",
+    "strata_basic:polished_lithoslate_slab",
+    "strata_basic:lithoslate_brick_slab",
+    "strata_basic:lithoslate_tile_slab",
+    "strata_basic:cobbled_mantleslate_slab",
+    "strata_basic:polished_mantleslate_slab",
+    "strata_basic:mantleslate_brick_slab",
+    "strata_basic:mantleslate_tile_slab",
+    "strata_basic:cobbled_ferrite_slab",
+    "strata_basic:polished_ferrite_slab",
+    "strata_basic:ferrite_brick_slab",
+    "strata_basic:ferrite_tile_slab"
+  ]
+}

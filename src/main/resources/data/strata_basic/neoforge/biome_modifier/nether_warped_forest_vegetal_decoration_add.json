@@ -1,0 +1,9 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "minecraft:warped_forest",
+  "features": [
+    "strata_basic:nether_spring_lava",
+    "strata_basic:nether_twisting_vines"
+  ],
+  "step": "vegetal_decoration"
+}

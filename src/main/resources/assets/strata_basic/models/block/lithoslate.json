@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "strata_basic:block/lithoslate_top",
+    "side": "strata_basic:block/lithoslate"
+  }
+}

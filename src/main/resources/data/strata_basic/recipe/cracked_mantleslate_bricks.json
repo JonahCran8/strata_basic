@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smelting",
+  "category": "blocks",
+  "cookingtime": 200,
+  "experience": 0.1,
+  "ingredient": {
+    "item": "strata_basic:mantleslate_bricks"
+  },
+  "result": {
+    "id": "strata_basic:cracked_mantleslate_bricks"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_wall_side",
+  "textures": {
+    "wall": "strata_basic:block/mantleslate_bricks"
+  }
+}

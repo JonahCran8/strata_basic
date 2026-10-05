@@ -1,0 +1,16 @@
+{
+  "values": [
+    "strata_basic:lithoslate_gold_ore",
+    "strata_basic:lithoslate_redstone_ore",
+    "strata_basic:lithoslate_diamond_ore",
+    "strata_basic:lithoslate_emerald_ore",
+    "strata_basic:mantleslate_gold_ore",
+    "strata_basic:mantleslate_redstone_ore",
+    "strata_basic:mantleslate_diamond_ore",
+    "strata_basic:mantleslate_emerald_ore",
+    "strata_basic:ferrite_gold_ore",
+    "strata_basic:ferrite_redstone_ore",
+    "strata_basic:ferrite_diamond_ore",
+    "strata_basic:ferrite_emerald_ore"
+  ]
+}

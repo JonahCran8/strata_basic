@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_deepslate_bricks": {
+      "conditions": {
+        "items": [
+          {
+            "items": "strata_basic:ferrite_bricks"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "strata_basic:ferrite_brick_slab_from_ferrite_bricks_stonecutting"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_deepslate_bricks"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "strata_basic:ferrite_brick_slab_from_ferrite_bricks_stonecutting"
+    ]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "strata_basic:block/lithoslate_lapis_ore"
+  }
+}

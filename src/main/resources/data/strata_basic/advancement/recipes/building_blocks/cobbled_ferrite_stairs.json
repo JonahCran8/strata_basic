@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_cobbled_deepslate": {
+      "conditions": {
+        "items": [
+          {
+            "items": "strata_basic:cobbled_ferrite"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "strata_basic:cobbled_ferrite_stairs"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_cobbled_deepslate"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "strata_basic:cobbled_ferrite_stairs"
+    ]
+  }
+}

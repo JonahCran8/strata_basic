@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#c:is_overworld",
+  "features": "strata_basic:lava_reducer",
+  "step": "raw_generation"
+}

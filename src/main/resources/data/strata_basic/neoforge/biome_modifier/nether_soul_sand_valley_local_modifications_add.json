@@ -1,0 +1,8 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "minecraft:soul_sand_valley",
+  "features": [
+    "strata_basic:nether_basalt_pillar"
+  ],
+  "step": "local_modifications"
+}

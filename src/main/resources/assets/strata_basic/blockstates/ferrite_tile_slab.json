@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "strata_basic:block/ferrite_tile_slab"
+    },
+    "type=double": {
+      "model": "strata_basic:block/ferrite_tiles"
+    },
+    "type=top": {
+      "model": "strata_basic:block/ferrite_tile_slab_top"
+    }
+  }
+}

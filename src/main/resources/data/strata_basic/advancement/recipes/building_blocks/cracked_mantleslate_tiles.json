@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_deepslate_tiles": {
+      "conditions": {
+        "items": [
+          {
+            "items": "strata_basic:mantleslate_tiles"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "strata_basic:cracked_mantleslate_tiles"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_deepslate_tiles"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "strata_basic:cracked_mantleslate_tiles"
+    ]
+  }
+}

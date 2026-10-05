@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "strata_basic:block/polished_ferrite",
+    "side": "strata_basic:block/polished_ferrite",
+    "top": "strata_basic:block/polished_ferrite"
+  }
+}

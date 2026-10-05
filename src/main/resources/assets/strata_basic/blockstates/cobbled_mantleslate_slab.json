@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "strata_basic:block/cobbled_mantleslate_slab"
+    },
+    "type=double": {
+      "model": "strata_basic:block/cobbled_mantleslate"
+    },
+    "type=top": {
+      "model": "strata_basic:block/cobbled_mantleslate_slab_top"
+    }
+  }
+}

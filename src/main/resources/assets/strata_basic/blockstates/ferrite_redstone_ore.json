@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "strata_basic:block/ferrite_redstone_ore"
+    }
+  }
+}

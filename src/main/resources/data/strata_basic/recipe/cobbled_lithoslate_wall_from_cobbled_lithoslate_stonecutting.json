@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "strata_basic:cobbled_lithoslate"
+  },
+  "result": {
+    "count": 1,
+    "id": "strata_basic:cobbled_lithoslate_wall"
+  }
+}

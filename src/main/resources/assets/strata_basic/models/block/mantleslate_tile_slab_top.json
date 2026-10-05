@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "strata_basic:block/mantleslate_tiles",
+    "side": "strata_basic:block/mantleslate_tiles",
+    "top": "strata_basic:block/mantleslate_tiles"
+  }
+}

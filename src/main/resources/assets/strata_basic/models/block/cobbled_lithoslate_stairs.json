@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "strata_basic:block/cobbled_lithoslate",
+    "side": "strata_basic:block/cobbled_lithoslate",
+    "top": "strata_basic:block/cobbled_lithoslate"
+  }
+}

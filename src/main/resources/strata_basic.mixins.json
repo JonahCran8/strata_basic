@@ -1,0 +1,19 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.jonah.stratabasic.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "NoiseFluidMixin",
+    "NoiseAquiferMixin",
+    "FlowingFluidMixin",
+    "FluidTypeMixin"
+  ],
+  "client": [
+    "LightTextureMixin",
+    "WorldCreationWarningMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

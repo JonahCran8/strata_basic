@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "strata_basic:block/lithoslate_tiles",
+    "side": "strata_basic:block/lithoslate_tiles",
+    "top": "strata_basic:block/lithoslate_tiles"
+  }
+}

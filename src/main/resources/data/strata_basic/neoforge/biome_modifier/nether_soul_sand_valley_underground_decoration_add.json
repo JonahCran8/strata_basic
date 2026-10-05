@@ -1,0 +1,22 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "minecraft:soul_sand_valley",
+  "features": [
+    "strata_basic:nether_spring_open",
+    "strata_basic:nether_patch_fire",
+    "strata_basic:nether_patch_soul_fire",
+    "strata_basic:nether_glowstone_extra",
+    "strata_basic:nether_glowstone",
+    "strata_basic:nether_patch_crimson_roots",
+    "strata_basic:nether_ore_magma",
+    "strata_basic:nether_spring_closed",
+    "strata_basic:nether_ore_soul_sand",
+    "strata_basic:nether_ore_gravel_nether",
+    "strata_basic:nether_ore_blackstone",
+    "strata_basic:nether_ore_gold_nether",
+    "strata_basic:nether_ore_quartz_nether",
+    "strata_basic:nether_ore_ancient_debris_large",
+    "strata_basic:nether_ore_debris_small"
+  ],
+  "step": "underground_decoration"
+}
