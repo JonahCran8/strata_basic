@@ -14,4 +14,4 @@ The layered world of Strata, and nothing else (NeoForge 1.21.1, may bring to oth
   layer (regular creepers spawn in the stone layer).
 - **The Nether:** Nether fortresses and bastions generate, as well as gold, quartz, and debris.
   
-Everything else is vanilla. The mod replaces the overworld's height, noise settings and biome source, so it conflicts with other mods that overhaul world generation. Don't use it together with full Strata. World creation skips Minecraft's "experimental settings" warning
+Everything else is vanilla. The mod replaces the overworld's height, noise settings and biome source, so it conflicts with other mods that overhaul world generation. Don't use it together with full Strata (Not released yet anyway). World creation skips Minecraft's "experimental settings" warning
