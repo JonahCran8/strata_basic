@@ -11,7 +11,7 @@ public class LithoslateCreeper extends Creeper implements DeepCreeper {
 
     public static final float BLAST_RADIUS = 4.0F;
     // Normal creeper has 20
-    public static final double BASE_HEALTH = 40.0;
+    public static final double BASE_HEALTH = 20.0;
     public static final double SPEED = 0.30;
 
     private boolean blastStarted;

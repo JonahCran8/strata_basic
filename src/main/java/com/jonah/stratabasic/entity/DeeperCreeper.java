@@ -11,7 +11,7 @@ public class DeeperCreeper extends Creeper implements DeepCreeper {
 
     public static final float BLAST_RADIUS = 3.5F;
     // Normal creeper has 20
-    public static final double BASE_HEALTH = 30.0;
+    public static final double BASE_HEALTH = 20.0;
     public static final double SPEED = 0.28;
 
     private boolean blastStarted;

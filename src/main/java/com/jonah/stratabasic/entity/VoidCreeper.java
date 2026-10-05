@@ -22,10 +22,10 @@ public class VoidCreeper extends Creeper implements DeepCreeper {
 
     public static final float BLAST_RADIUS = 5.0F;
     // Normal creeper has 20
-    public static final double BASE_HEALTH = 80.0;
+    public static final double BASE_HEALTH = 40.0;
     public static final double SPEED = 0.30;
-    // Fuse in ticks, twice a normal creeper's
-    public static final int FUSE = 60;
+    // Fuse in ticks, normal creeper is 30
+    public static final int FUSE = 40;
     // Once lit, fuse only stops when player is this far away
     private static final double FUSE_RANGE = 12.0;
     // Teleports this far behind player (min to max) and a few blocks up or down

@@ -11,7 +11,7 @@ public class MantleslateCreeper extends LithoslateCreeper {
 
     public static final float BLAST_RADIUS = 4.5F;
     // Normal creeper has 20
-    public static final double BASE_HEALTH = 60.0;
+    public static final double BASE_HEALTH = 30.0;
     public static final double SPEED = 0.34;
 
     public MantleslateCreeper(EntityType<? extends Creeper> type, Level level) {
