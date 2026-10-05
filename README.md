@@ -12,5 +12,6 @@ The layered world of Strata, and nothing else (NeoForge 1.21.1, may bring to oth
 - **Ores:** coal, iron, copper, gold, redstone, lapis, diamond and emerald generate in every layer, in the layer's own stone.
 - **Creepers:** Deeper Creeper(deepslate), Lithoslate Creeper, Mantleslate Creeper and Void Creeper(ferrite), each has a bigger blast and spawns naturally in its own
   layer (regular creepers spawn in the stone layer).
-- **The Nether:** Nether fortresses and bastions generate, as well as gold, quartz, and debris
+- **The Nether:** Nether fortresses and bastions generate, as well as gold, quartz, and debris.
+  
 Everything else is vanilla. The mod replaces the overworld's height, noise settings and biome source, so it conflicts with other mods that overhaul world generation. Don't use it together with full Strata. World creation skips Minecraft's "experimental settings" warning
