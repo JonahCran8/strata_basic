@@ -9,6 +9,7 @@ import net.minecraft.world.level.levelgen.structure.StructurePiece;
 import net.minecraft.world.level.levelgen.structure.StructureType;
 import net.minecraft.world.level.levelgen.structure.pieces.StructurePiecesBuilder;
 import net.minecraft.world.level.levelgen.structure.structures.NetherFortressPieces;
+import net.neoforged.fml.ModList;
 
 import java.util.List;
 import java.util.Optional;
@@ -26,6 +27,11 @@ public class NetherFortressStructure extends Structure {
 
     @Override
     public Optional<Structure.GenerationStub> findGenerationPoint(Structure.GenerationContext context) {
+        // YUNG's Better Nether Fortresses replaces these (see data/betterfortresses override)
+        if (ModList.get().isLoaded("betterfortresses")) {
+            return Optional.empty();
+        }
+
         ChunkPos chunkPos = context.chunkPos();
         BlockPos pos = new BlockPos(chunkPos.getMinBlockX(), 64 - SHIFT, chunkPos.getMinBlockZ());
         return Optional.of(new Structure.GenerationStub(pos, builder -> generatePieces(builder, context)));

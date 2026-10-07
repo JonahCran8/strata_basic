@@ -19,6 +19,14 @@ config="${mod_id}.mixins.json"
 [[accessTransformers]]
 file="META-INF/accesstransformer.cfg"
 
+# Optional: load after YUNG's Better Nether Fortresses so our data override of its fortress wins
+[[dependencies.${mod_id}]]
+    modId="betterfortresses"
+    type="optional"
+    versionRange="[1,)"
+    ordering="AFTER"
+    side="BOTH"
+
 [[dependencies.${mod_id}]]
     modId="neoforge"
     type="required"
